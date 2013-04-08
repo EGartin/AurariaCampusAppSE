@@ -1,0 +1,16 @@
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\ApplicationIcon.png
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\Background.png
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\AurariaCampusAppSE.dll
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\AurariaCampusAppSE.pdb
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\AppManifest.xaml
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Debug\AurariaCampusAppSE.xap
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.csprojResolveAssemblyReference.cache
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\App.g.cs
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusScreen.g.cs
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\CampusMapScreen.g.cs
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\InstitutationsScreen.g.cs
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\MainPage.g.cs
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.g.resources
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.dll
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.pdb
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\XapCacheFile.xml

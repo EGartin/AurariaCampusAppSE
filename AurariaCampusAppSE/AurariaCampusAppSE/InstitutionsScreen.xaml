@@ -1,5 +1,5 @@
 ﻿<phone:PhoneApplicationPage
-    x:Class="AurariaCampusAppSE.CampusMapScreen"
+    x:Class="AurariaCampusAppSE.InstitutationsScreen"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
@@ -22,15 +22,15 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Text="Denver, CO" Style="{StaticResource PhoneTextNormalStyle}" Foreground="Black"/>
-            <TextBlock Text="Campus Map" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black"/>
+            <TextBlock Text="CCD MSUD UCD" Style="{StaticResource PhoneTextNormalStyle}" Foreground="Black"/>
+            <TextBlock Text="Institutions" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Button x:Name="DetailMapButton" Content="Detail Map in PDF" Margin="31,44,33,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="DetailMapButton_Click"/>
-            <Image HorizontalAlignment="Left" Height="277" Margin="81,292,0,0" VerticalAlignment="Top" Width="277" Source="/Image1.png"/>
-            <Button x:Name="MapByLocationButton" Content="Map my Current Location" HorizontalAlignment="Left" Margin="31,151,0,0" VerticalAlignment="Top" Background="#FF0266B2" Width="392" Height="102"/>
+            <Image x:Name="CCDImage" Margin="76,40,75,459" Source="/Image4.png" Stretch="Fill" Tap="CCDImage_Tap"/>
+            <Image x:Name="MSUDImage" Margin="81,200,75,247" Source="/Image5.png" Stretch="Fill" Width="300" Height="160" Tap="MSUDImage_Tap"/>
+            <Image x:Name="UCDImage" Margin="78,415,65,32" Source="/Image6.png" Stretch="Fill" Height="160" Tap="UCDImage_Tap"/>
 
         </Grid>
     </Grid>

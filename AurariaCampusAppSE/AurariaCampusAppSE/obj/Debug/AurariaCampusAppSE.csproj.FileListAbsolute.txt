@@ -8,9 +8,9 @@ E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppS
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\App.g.cs
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusScreen.g.cs
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\CampusMapScreen.g.cs
-E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\InstitutationsScreen.g.cs
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\MainPage.g.cs
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.g.resources
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.dll
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\AurariaCampusAppSE.pdb
 E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\XapCacheFile.xml
+E:\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\obj\Debug\InstitutionsScreen.g.cs

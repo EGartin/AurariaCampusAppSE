@@ -16,5 +16,18 @@ namespace AurariaCampusAppSE
         {
             InitializeComponent();
         }
+
+        private void SchoolButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(
+               new Uri("/InstitutionsScreen.xaml", UriKind.Relative));
+        }
+
+        private void CMapButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(
+               new Uri("/CampusMapScreen.xaml", UriKind.Relative));
+        }
+
     }
 }

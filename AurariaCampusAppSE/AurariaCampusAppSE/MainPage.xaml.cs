@@ -23,8 +23,8 @@ namespace AurariaCampusAppSE
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-           // NavigationService.Navigate(
-               // new Uri("AurariaCampusScreen.xaml", UriKind.Relative));
+           NavigationService.Navigate(
+               new Uri("/AurariaCampusScreen.xaml", UriKind.Relative));
         }
     }
 }

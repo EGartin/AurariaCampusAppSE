@@ -16,5 +16,11 @@ namespace AurariaCampusAppSE
         {
             InitializeComponent();
         }
+
+        private void DetailMapButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(
+               new Uri("http://www.ahec.edu/campusmaps/CampusMap.pdf", UriKind.Relative));
+        }
     }
 }

@@ -14,7 +14,7 @@
     shell:SystemTray.IsVisible="True" Background="White">
 
     <!--LayoutRoot is the root grid where all page content is placed-->
-    <Grid x:Name="LayoutRoot" Background="White">
+    <Grid x:Name="LayoutRoot" Background="Black">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
@@ -22,15 +22,15 @@
 
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
-            <TextBlock Style="{StaticResource PhoneTextNormalStyle}" Foreground="Black" Text="Denver, CO"/>
-            <TextBlock Text="Auraria Campus" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black" FontSize="60"/>
+            <TextBlock Style="{StaticResource PhoneTextNormalStyle}" Foreground="White" Text="Denver, CO"/>
+            <TextBlock Text="Auraria Campus" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="White" FontSize="60"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Image Margin="98,342,99,32" Source="/Image1.png" Stretch="Fill"/>
-            <Button x:Name="SchoolButton" Content="Institution Information" Margin="32,37,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="SchoolButton_Click"/>
-            <Button x:Name="CMapButton" Content="Campus Map" Margin="32,166,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="CMapButton_Click"/>
+            <Image Margin="81,308,98,38" Source="/Image1.png" Stretch="Fill" Width="277" Height="277"/>
+            <Button x:Name="SchoolButton" Content="Institution Information" Margin="32,45,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="SchoolButton_Click"/>
+            <Button x:Name="CMapButton" Content="Campus Map" Margin="32,147,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="CMapButton_Click"/>
 
         </Grid>
     </Grid>

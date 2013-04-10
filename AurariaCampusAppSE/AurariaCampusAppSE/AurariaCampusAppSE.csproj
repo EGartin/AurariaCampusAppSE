@@ -50,6 +50,7 @@
   <ItemGroup>
     <Reference Include="Microsoft.Phone" />
     <Reference Include="Microsoft.Phone.Interop" />
+    <Reference Include="System.Device" />
     <Reference Include="System.Windows" />
     <Reference Include="system" />
     <Reference Include="System.Core" />
@@ -66,6 +67,9 @@
     </Compile>
     <Compile Include="CampusMapScreen.xaml.cs">
       <DependentUpon>CampusMapScreen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GPSLocation.xaml.cs">
+      <DependentUpon>GPSLocation.xaml</DependentUpon>
     </Compile>
     <Compile Include="InstitutionsScreen.xaml.cs">
       <DependentUpon>InstitutionsScreen.xaml</DependentUpon>
@@ -85,6 +89,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="CampusMapScreen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GPSLocation.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -22,5 +22,11 @@ namespace AurariaCampusAppSE
             NavigationService.Navigate(
                new Uri("http://www.ahec.edu/campusmaps/CampusMap.pdf", UriKind.Relative));
         }
+
+        private void MapByLocationButton_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(
+               new Uri("/GPSLocation.xaml", UriKind.Relative));
+        }
     }
 }

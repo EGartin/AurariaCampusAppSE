@@ -37,7 +37,7 @@ namespace AurariaCampusAppSE
         private void TextBlock_DoubleTap_1(object sender, System.Windows.Input.GestureEventArgs e)
         {
             NavigationService.Navigate(
-                new Uri("/AurariaCampusScreen", UriKind.Relative));
+                new Uri("/AurariaCampusScreen.xaml", UriKind.Relative));
         }
     }
 }

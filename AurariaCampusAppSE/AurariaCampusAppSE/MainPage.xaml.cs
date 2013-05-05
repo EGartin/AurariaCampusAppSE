@@ -26,5 +26,10 @@ namespace AurariaCampusAppSE
            NavigationService.Navigate(
                new Uri("/AurariaCampusScreen.xaml", UriKind.Relative));
         }
+
+        private void Image_DoubleTap_1(object sender, GestureEventArgs e)
+        {
+            MessageBox.Show("Auraria Campus, Denver, CO USA");
+        }
     }
 }

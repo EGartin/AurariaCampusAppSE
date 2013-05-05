@@ -38,7 +38,7 @@
                 <ColumnDefinition/>
                 <ColumnDefinition Width="0*"/>
             </Grid.ColumnDefinitions>
-            <Image Margin="89,35,90,204" Source="/Image1.png" Stretch="Fill" Width="277" Height="277"/>
+            <Image Margin="89,35,90,204" Source="/AHEC.jpg" Stretch="Fill" Width="277" Height="277" DoubleTap="Image_DoubleTap_1"/>
             <Button x:Name="StartButton" Content="Start Here" HorizontalAlignment="Left" Margin="89,353,0,0" VerticalAlignment="Top" Click="Button_Click_1" Background="#FF0266B2" Height="102" Width="277" />
         </Grid>
     </Grid>

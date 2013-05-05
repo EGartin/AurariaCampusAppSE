@@ -29,5 +29,11 @@ namespace AurariaCampusAppSE
                new Uri("/CampusMapScreen.xaml", UriKind.Relative));
         }
 
+        private void TextBlock_DoubleTap_1(object sender, System.Windows.Input.GestureEventArgs e)
+        {
+            NavigationService.Navigate(
+                new Uri("/MainPage.xaml", UriKind.Relative));
+        }
+
     }
 }

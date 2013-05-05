@@ -23,13 +23,13 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="Denver, CO" Style="{StaticResource PhoneTextNormalStyle}" Foreground="White"/>
-            <TextBlock Text="Campus Map" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="White" FontSize="60"/>
+            <TextBlock Text="Campus Map" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="White" FontSize="60" DoubleTap="TextBlock_DoubleTap_1"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
             <Button x:Name="DetailMapButton" Content="Detail Map in PDF" Margin="31,44,33,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="DetailMapButton_Click"/>
-            <Image Margin="81,292,98,38" Source="/Image1.png"/>
+            <Image Margin="81,292,98,38" Source="/AHEC.jpg"/>
             <Button x:Name="MapByLocationButton" Content="Map my Current Location" HorizontalAlignment="Left" Margin="31,146,0,0" VerticalAlignment="Top" Background="#FF0266B2" Width="392" Height="102" Click="MapByLocationButton_Click"/>
 
         </Grid>

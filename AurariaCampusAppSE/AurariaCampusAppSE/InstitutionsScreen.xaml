@@ -23,16 +23,16 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="Tap on One" Style="{StaticResource PhoneTextNormalStyle}" Foreground="White"/>
-            <TextBlock Text="Institutions" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="White"/>
+            <TextBlock Text="Institutions" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}" Foreground="White" DoubleTap="TextBlock_DoubleTap_1"/>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Rectangle Fill="White" HorizontalAlignment="Left" Height="566" Margin="60,30,0,0" Stroke="Black" VerticalAlignment="Top" Width="344"/>
+            <Rectangle Fill="White" HorizontalAlignment="Left" Height="566" Margin="53,30,0,0" Stroke="Black" VerticalAlignment="Top" Width="360" Visibility="Visible"/>
 
-            <Image x:Name="CCDImage" Margin="76,40,75,459" Source="/Image4.png" Stretch="Fill" Tap="CCDImage_Tap"/>
-            <Image x:Name="MSUDImage" Margin="81,200,75,247" Source="/Image5.png" Stretch="Fill" Width="300" Height="160" Tap="MSUDImage_Tap"/>
-            <Image x:Name="UCDImage" Margin="78,415,65,32" Source="/Image6.png" Stretch="Fill" Height="160" Tap="UCDImage_Tap"/>
+            <Image x:Name="CCDImage" Margin="78,40,75,459" Source="/CCD.jpg" Stretch="Fill" Tap="CCDImage_Tap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            <Image x:Name="MSUDImage" Margin="81,200,75,247" Source="/MSUDenver.jpg" Stretch="Fill" Width="300" Height="160" Tap="MSUDImage_Tap"/>
+            <Image x:Name="UCDImage" Margin="78,415,65,32" Source="/CUDenver.jpg" Stretch="Fill" Height="160" Tap="UCDImage_Tap"/>
 
         </Grid>
     </Grid>

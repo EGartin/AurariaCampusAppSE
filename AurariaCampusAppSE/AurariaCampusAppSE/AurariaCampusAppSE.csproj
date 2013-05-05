@@ -110,16 +110,17 @@
     <None Include="Properties\WMAppManifest.xml" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AHEC.jpg" />
     <Content Include="ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="ApplicationTileImage.png" />
     <Content Include="Background.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Image1.png" />
-    <Content Include="Image4.png" />
-    <Content Include="Image5.png" />
-    <Content Include="Image6.png" />
+    <Content Include="CCD.jpg" />
+    <Content Include="CUDenver.jpg" />
+    <Content Include="MSUDenver.jpg" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />

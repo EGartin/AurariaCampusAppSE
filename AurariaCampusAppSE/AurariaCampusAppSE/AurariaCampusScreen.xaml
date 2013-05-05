@@ -28,7 +28,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Image Margin="81,308,98,38" Source="/Image1.png" Stretch="Fill" Width="277" Height="277"/>
+            <Image Margin="81,308,98,38" Source="/AHEC.jpg" Stretch="Fill" Width="277" Height="277"/>
             <Button x:Name="SchoolButton" Content="Institution Information" Margin="32,45,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="SchoolButton_Click"/>
             <Button x:Name="CMapButton" Content="Campus Map" Margin="32,147,32,0" VerticalAlignment="Top" Background="#FF0266B2" Height="102" Click="CMapButton_Click"/>
 

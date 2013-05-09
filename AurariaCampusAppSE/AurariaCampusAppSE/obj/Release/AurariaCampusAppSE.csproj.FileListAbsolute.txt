@@ -1,0 +1,17 @@
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\ApplicationIcon.png
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\Background.png
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\AurariaCampusAppSE.dll
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\AurariaCampusAppSE.pdb
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\AppManifest.xaml
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\Bin\Release\AurariaCampusAppSE.xap
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\AurariaCampusAppSE.csprojResolveAssemblyReference.cache
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\App.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\AurariaCampusScreen.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\CampusMapScreen.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\GPSLocation.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\InstitutionsScreen.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\MainPage.g.cs
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\AurariaCampusAppSE.g.resources
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\AurariaCampusAppSE.dll
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\AurariaCampusAppSE.pdb
+C:\Users\ElijahGartin\SkyDrive\Dropbox\Git\AurariaCampusAppSE\AurariaCampusAppSE\AurariaCampusAppSE\obj\Release\XapCacheFile.xml

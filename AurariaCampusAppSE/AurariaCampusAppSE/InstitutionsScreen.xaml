@@ -28,7 +28,7 @@
 
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <Rectangle Fill="White" HorizontalAlignment="Left" Height="566" Margin="53,30,0,0" Stroke="Black" VerticalAlignment="Top" Width="360" Visibility="Visible"/>
+            <Rectangle Fill="White" HorizontalAlignment="Left" Height="586" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="436" Visibility="Visible"/>
 
             <Image x:Name="CCDImage" Margin="78,40,75,459" Source="/CCD.jpg" Stretch="Fill" Tap="CCDImage_Tap" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             <Image x:Name="MSUDImage" Margin="81,200,75,247" Source="/MSUDenver.jpg" Stretch="Fill" Width="300" Height="160" Tap="MSUDImage_Tap"/>
